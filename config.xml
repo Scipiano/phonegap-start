@@ -4,14 +4,14 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Casa Blancafestival 2012</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		App voor het CB festival 2012
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
+	<author href="http:www.casablancafestival.be"
+		email="bert.pichal@telenet.be">
 		Andrew Lunny
 	</author>
 
